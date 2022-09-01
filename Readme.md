@@ -1,1 +1,1 @@
-This is a simple ML project
+This is a simple image analysis project
